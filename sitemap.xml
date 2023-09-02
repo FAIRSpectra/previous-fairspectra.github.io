@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>http://fairspectra.net/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/</loc>
+    <loc>http://fairspectra.net/docs/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/archive/</loc>
+    <loc>http://fairspectra.net/archive/</loc>
     <lastmod>2022-09-17T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>http://fairspectra.net/about/</loc>
     <lastmod>2023-09-02T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/alexhenderson/</loc>
+    <loc>http://fairspectra.net/authors/alexhenderson/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>http://fairspectra.net/authors/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>http://fairspectra.net/categories/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/definitions/</loc>
+    <loc>http://fairspectra.net/categories/definitions/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/fair/</loc>
+    <loc>http://fairspectra.net/tags/fair/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/fair/</loc>
+    <loc>http://fairspectra.net/docs/fair/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>http://fairspectra.net/tags/</loc>
     <lastmod>2023-09-02T19:09:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/minimum-reporting-requirement/</loc>
+    <loc>http://fairspectra.net/docs/minimum-reporting-requirement/</loc>
     <lastmod>2023-09-02T18:45:56+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/reporting/</loc>
+    <loc>http://fairspectra.net/tags/reporting/</loc>
     <lastmod>2023-09-02T18:45:56+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/semantics/</loc>
+    <loc>http://fairspectra.net/tags/semantics/</loc>
     <lastmod>2023-09-02T18:43:33+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/semantics/</loc>
+    <loc>http://fairspectra.net/docs/semantics/</loc>
     <lastmod>2023-09-02T18:43:33+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/metadata/</loc>
+    <loc>http://fairspectra.net/tags/metadata/</loc>
     <lastmod>2023-09-02T18:28:05+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/metadata/</loc>
+    <loc>http://fairspectra.net/docs/metadata/</loc>
     <lastmod>2023-09-02T18:28:05+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/page/</loc>
+    <loc>http://fairspectra.net/page/</loc>
     <lastmod>2023-09-02T17:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/config/</loc>
+    <loc>http://fairspectra.net/tags/config/</loc>
   </url><url>
-    <loc>http://www.example.com/tags/og/</loc>
+    <loc>http://fairspectra.net/tags/og/</loc>
   </url><url>
-    <loc>http://www.example.com/search/</loc>
+    <loc>http://fairspectra.net/search/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>http://fairspectra.net/series/</loc>
   </url>
 </urlset>

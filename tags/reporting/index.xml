@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reporting on FAIRSpectra</title>
-    <link>http://www.example.com/tags/reporting/</link>
+    <link>http://fairspectra.net/tags/reporting/</link>
     <description>Recent content in reporting on FAIRSpectra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 18:45:56 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/reporting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 18:45:56 +0100</lastBuildDate><atom:link href="http://fairspectra.net/tags/reporting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minimum Reporting Requirement</title>
-      <link>http://www.example.com/docs/minimum-reporting-requirement/</link>
+      <link>http://fairspectra.net/docs/minimum-reporting-requirement/</link>
       <pubDate>Sat, 02 Sep 2023 18:45:56 +0100</pubDate>
       
-      <guid>http://www.example.com/docs/minimum-reporting-requirement/</guid>
+      <guid>http://fairspectra.net/docs/minimum-reporting-requirement/</guid>
       <description>This is where we, as a community, decide what information should be reported when we publish our results and our data. This should be the minimum information required to be able to replicate the experiment, and to be able to compare the outcome.
 The minimum is just the starting point, more information is always better!</description>
     </item>

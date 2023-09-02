@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on FAIRSpectra</title>
-    <link>http://www.example.com/page/</link>
+    <link>http://fairspectra.net/page/</link>
     <description>Recent content in Pages on FAIRSpectra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 17:00:00 +0100</lastBuildDate><atom:link href="http://www.example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 17:00:00 +0100</lastBuildDate><atom:link href="http://fairspectra.net/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>http://www.example.com/archive/</link>
+      <link>http://fairspectra.net/archive/</link>
       <pubDate>Sat, 17 Sep 2022 18:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/archive/</guid>
+      <guid>http://fairspectra.net/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://fairspectra.net/about/</link>
       <pubDate>Sat, 02 Sep 2023 17:00:00 +0100</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>http://fairspectra.net/about/</guid>
       <description>There is now a growing requirement for data acquired on projects supported by national funding programmes to be shared openly. This includes organisations such as UKRI, ERC, Horizon, NIH, NSF, Wellcome, DFG etc.
 Sharing data requires that the files must be readable by others and can be understood in terms of their content.
 FAIRSpectra aims to tackle issues with interoperability and reusability, as defined by the FAIR Principles. This has been broken down into two areas of activity: open file formats and metadata vocabulary.</description>
@@ -29,10 +29,10 @@ FAIRSpectra aims to tackle issues with interoperability and reusability, as defi
     
     <item>
       <title>Search</title>
-      <link>http://www.example.com/search/</link>
+      <link>http://fairspectra.net/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/search/</guid>
+      <guid>http://fairspectra.net/search/</guid>
       <description></description>
     </item>
     

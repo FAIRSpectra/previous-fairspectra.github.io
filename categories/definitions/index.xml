@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>definitions on FAIRSpectra</title>
-    <link>http://www.example.com/categories/definitions/</link>
+    <link>http://fairspectra.net/categories/definitions/</link>
     <description>Recent content in definitions on FAIRSpectra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 19:09:18 +0100</lastBuildDate><atom:link href="http://www.example.com/categories/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 19:09:18 +0100</lastBuildDate><atom:link href="http://fairspectra.net/categories/definitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAIR</title>
-      <link>http://www.example.com/docs/fair/</link>
+      <link>http://fairspectra.net/docs/fair/</link>
       <pubDate>Sat, 02 Sep 2023 19:09:18 +0100</pubDate>
       
-      <guid>http://www.example.com/docs/fair/</guid>
+      <guid>http://fairspectra.net/docs/fair/</guid>
       <description>The FAIR Guiding Principles describe things to consider when making scholarly data available. These are broken down into four interrelated topics: Data and metadata should be Findable, Accessible, Interoperable, and Reusable.
 Findability and Accessibility relate to identifiers such as a DOI, and appropriate licencing terms. Interoperability and Reusability recommend that data are stored in a manner that is readable by all, and that information about the data (the metadata) is described in enough detail to be understood by both humans and machines.</description>
     </item>
     
     <item>
       <title>Minimum Reporting Requirement</title>
-      <link>http://www.example.com/docs/minimum-reporting-requirement/</link>
+      <link>http://fairspectra.net/docs/minimum-reporting-requirement/</link>
       <pubDate>Sat, 02 Sep 2023 18:45:56 +0100</pubDate>
       
-      <guid>http://www.example.com/docs/minimum-reporting-requirement/</guid>
+      <guid>http://fairspectra.net/docs/minimum-reporting-requirement/</guid>
       <description>This is where we, as a community, decide what information should be reported when we publish our results and our data. This should be the minimum information required to be able to replicate the experiment, and to be able to compare the outcome.
 The minimum is just the starting point, more information is always better!</description>
     </item>
     
     <item>
       <title>Semantics</title>
-      <link>http://www.example.com/docs/semantics/</link>
+      <link>http://fairspectra.net/docs/semantics/</link>
       <pubDate>Sat, 02 Sep 2023 18:43:33 +0100</pubDate>
       
-      <guid>http://www.example.com/docs/semantics/</guid>
+      <guid>http://fairspectra.net/docs/semantics/</guid>
       <description>Semantics is the study of meaning. So that others can understand what we mean, we need well–defined terminology that we all agree upon.</description>
     </item>
     
     <item>
       <title>Metadata</title>
-      <link>http://www.example.com/docs/metadata/</link>
+      <link>http://fairspectra.net/docs/metadata/</link>
       <pubDate>Sat, 02 Sep 2023 18:28:05 +0100</pubDate>
       
-      <guid>http://www.example.com/docs/metadata/</guid>
+      <guid>http://fairspectra.net/docs/metadata/</guid>
       <description>Metadata is loosely defined as data about data. This covers everything from:
 original source of sample, sample pre-treatment, data acquisition, data pre-processing, data analysis. Each of these steps in the analysis pipeline has parameters that can influence the outcome and should be recorded.</description>
     </item>
