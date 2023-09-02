@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantics on FAIRSpectra</title>
+    <link>http://www.example.com/tags/semantics/</link>
+    <description>Recent content in semantics on FAIRSpectra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Sep 2023 18:43:33 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/semantics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semantics</title>
+      <link>http://www.example.com/docs/semantics/</link>
+      <pubDate>Sat, 02 Sep 2023 18:43:33 +0100</pubDate>
+      
+      <guid>http://www.example.com/docs/semantics/</guid>
+      <description>Semantics is the study of meaning. So that others can understand what we mean, we need well–defined terminology that we all agree upon.</description>
+    </item>
+    
+  </channel>
+</rss>

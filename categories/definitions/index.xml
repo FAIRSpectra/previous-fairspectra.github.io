@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on FAIRSpectra</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content in Home on FAIRSpectra</description>
+    <title>definitions on FAIRSpectra</title>
+    <link>http://www.example.com/categories/definitions/</link>
+    <description>Recent content in definitions on FAIRSpectra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 19:09:18 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Archive</title>
-      <link>http://www.example.com/archive/</link>
-      <pubDate>Sat, 17 Sep 2022 18:00:00 +0600</pubDate>
-      
-      <guid>http://www.example.com/archive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.example.com/about/</link>
-      <pubDate>Sat, 02 Sep 2023 17:00:00 +0100</pubDate>
-      
-      <guid>http://www.example.com/about/</guid>
-      <description>There is now a growing requirement for data acquired on projects supported by national funding programmes to be shared openly. This includes organisations such as UKRI, ERC, Horizon, NIH, NSF, Wellcome, DFG etc.
-Sharing data requires that the files must be readable by others and can be understood in terms of their content.
-FAIRSpectra aims to tackle issues with interoperability and reusability, as defined by the FAIR Principles. This has been broken down into two areas of activity: open file formats and metadata vocabulary.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 02 Sep 2023 19:09:18 +0100</lastBuildDate><atom:link href="http://www.example.com/categories/definitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAIR</title>
       <link>http://www.example.com/docs/fair/</link>
@@ -64,15 +44,6 @@ The minimum is just the starting point, more information is always better!</desc
       <guid>http://www.example.com/docs/metadata/</guid>
       <description>Metadata is loosely defined as data about data. This covers everything from:
 original source of sample, sample pre-treatment, data acquisition, data pre-processing, data analysis. Each of these steps in the analysis pipeline has parameters that can influence the outcome and should be recorded.</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>http://www.example.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/search/</guid>
-      <description></description>
     </item>
     
   </channel>
