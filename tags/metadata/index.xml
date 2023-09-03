@@ -14,7 +14,8 @@
       
       <guid>http://fairspectra.net/docs/metadata/</guid>
       <description>Metadata is loosely defined as data about data. This covers everything from:
-original source of sample, sample pre-treatment, data acquisition, data pre-processing, data analysis. Each of these steps in the analysis pipeline has parameters that can influence the outcome and should be recorded.</description>
+sample origin, sample pre-treatment, data acquisition, data pre-processing, data analysis. In addition, the order of steps in these general categories is important.
+Each of these steps in the analysis pipeline has parameters that can influence the outcome and should be recorded.</description>
     </item>
     
   </channel>

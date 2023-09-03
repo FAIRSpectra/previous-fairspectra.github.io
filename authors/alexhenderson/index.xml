@@ -6,7 +6,7 @@
     <description>Recent content in alexhenderson on FAIRSpectra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 19:09:18 +0100</lastBuildDate><atom:link href="http://fairspectra.net/authors/alexhenderson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 23:12:18 +0100</lastBuildDate><atom:link href="http://fairspectra.net/authors/alexhenderson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://fairspectra.net/about/</link>
@@ -16,6 +16,17 @@
       <description>There is now a growing requirement for data acquired on projects supported by national funding programmes to be shared openly. This includes organisations such as UKRI, ERC, Horizon, NIH, NSF, Wellcome, DFG etc.
 Sharing data requires that the files must be readable by others and can be understood in terms of their content.
 FAIRSpectra aims to tackle issues with interoperability and reusability, as defined by the FAIR Principles. This has been broken down into two areas of activity: open file formats and metadata vocabulary.</description>
+    </item>
+    
+    <item>
+      <title>File Formats for Data</title>
+      <link>http://fairspectra.net/docs/file-formats/</link>
+      <pubDate>Sat, 02 Sep 2023 23:12:18 +0100</pubDate>
+      
+      <guid>http://fairspectra.net/docs/file-formats/</guid>
+      <description>Open question Is these a need for a better file format for our data?
+Ideally a file format should be self-describing. Some existing data file formats for SIMS include&amp;hellip;
+Spectra-focussed JCAMP-DX SPC VAMAS (ISO 14976:1998 with ISO 22048:2004) Hyperspectral image-focussed imzML Other formats that could be explored include NetCDF HDF5 Apache Arrow Apache Parquet Apache Feather Open questions Which software packages can write these formats? Which software packages can read these formats?</description>
     </item>
     
     <item>
@@ -54,7 +65,8 @@ The minimum is just the starting point, more information is always better!</desc
       
       <guid>http://fairspectra.net/docs/metadata/</guid>
       <description>Metadata is loosely defined as data about data. This covers everything from:
-original source of sample, sample pre-treatment, data acquisition, data pre-processing, data analysis. Each of these steps in the analysis pipeline has parameters that can influence the outcome and should be recorded.</description>
+sample origin, sample pre-treatment, data acquisition, data pre-processing, data analysis. In addition, the order of steps in these general categories is important.
+Each of these steps in the analysis pipeline has parameters that can influence the outcome and should be recorded.</description>
     </item>
     
   </channel>
